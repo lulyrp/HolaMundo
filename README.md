@@ -1,2 +1,5 @@
 # HolaMundo
-Mi primer repositorio
+
+Mi primer repositorio en github
+
+i love :book:, :icecream:, :pizza:, :dog:
