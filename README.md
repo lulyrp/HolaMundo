@@ -1,9 +1,5 @@
-# HolaMundo
+# Presentacion
 
-Mi primer repositorio en github
-
-i love :book:, :icecream:, :pizza:, :dog:
-
-i love :cat:, :music:
-
-Agregamos modificaciones
+Mi nombre es Lourdes Rebolledo, soy estudiante de la Tecnicatura Universitaria en Programación,
+que se dicta en la UTN Regional San Rafael.
+Vivo en San Rafael, Mendoza.
